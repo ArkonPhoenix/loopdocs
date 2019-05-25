@@ -2,6 +2,8 @@
 
 Many people may already have an existing Nightscout site setup from before adding Loop to their management strategies. In order to make the most of your Looping setup, you will need to modify your existing Nightscout site a bit specifically for Loop. The process is pretty easy and should not take long.
 
+NOTE: Even if you have used NS before, you also should read over the New NS Users guide as it has other valuable info, such as the values for your Dexcom Share account.
+
 ## New Loopers Variables
 
 The modifications for retrofitting an existing NS site for new Loop users will require you to make some edits to your Heroku site.  There are five steps:
